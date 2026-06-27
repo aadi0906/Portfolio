@@ -1,9 +1,6 @@
 Portfolio Sections
-1. Hero Section
 
-Name: Adiba Mam
-
-Title:
+languages-
 Full Stack Web Developer | MERN Stack | Laravel | Next.js | React.js
 
 Description:
